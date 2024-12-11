@@ -1,0 +1,84 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4346649 */
+  src: url('iconfont.woff2?t=1700988527542') format('woff2'),
+       url('iconfont.woff?t=1700988527542') format('woff'),
+       url('iconfont.ttf?t=1700988527542') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*登录标题logo*/
+.icon-login-title:before {
+  content: "\e72f";
+}
+
+/*登录按钮*/
+.icon-login-button:before {
+  content: "\e8c8";
+}
+
+/*删除按钮*/
+.icon-delete-button:before {
+  content: "\ec7b";
+}
+
+/*添加按钮*/
+.icon-add-button:before {
+  content: "\e602";
+}
+
+/*更换按钮*/
+.icon-refresh-button:before {
+  content: "\e8d6";
+}
+
+/*收藏按钮*/
+.icon-collect-button:before {
+  content: "\e8c6";
+}
+
+/*编辑按钮*/
+.icon-edit-button:before {
+  content: "\e603";
+}
+
+/*评论按钮*/
+.icon-talk-button:before {
+  content: "\e8c5";
+}
+
+/*歌曲管理按钮*/
+.icon-song-manage-button:before {
+  content: "\e64b";
+}
+
+
+/*系统首页-菜单*/
+.icon-home-menu:before {
+  content: "\e604";
+}
+
+/*用户管理-菜单*/
+.icon-user-menu:before {
+  content: "\e8c8";
+}
+
+/*歌手管理-菜单*/
+.icon-singer-menu:before {
+  content: "\e68d";
+}
+
+/*歌单管理-菜单*/
+.icon-sing-list-menu:before {
+  content: "\e6be";
+}
+
+
+
+

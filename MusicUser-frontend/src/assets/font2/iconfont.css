@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4346649 */
+  src: url('iconfont.woff2?t=1701006076207') format('woff2'),
+       url('iconfont.woff?t=1701006076207') format('woff'),
+       url('iconfont.ttf?t=1701006076207') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*登录按钮*/
+.icon-login-button:before {
+  content: "\e66b";
+}
+
+/*注册按钮*/
+.icon-register-button:before {
+  content: "\e8ca";
+}
+
+/*搜索按钮*/
+.icon-search-button:before {
+  content: "\e8d6";
+}
+
+
+
+
